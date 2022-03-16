@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"history": "^5.0.0"
+	},
+	"devDependencies": {
+		"msw": "^0.34.0"
+	}
+}

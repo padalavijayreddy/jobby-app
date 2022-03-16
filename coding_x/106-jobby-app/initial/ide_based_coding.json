@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "4f15b6eb-32c4-43ec-921f-e9b408ff7c4d",
+    "ide_session_id": "ebf610e6-132c-4b0e-bc03-ecfce5b885aa",
+    "short_text": "Jobby App",
+    "question_key": "jobby_app_1",
+    "question_text": "Will be automatically generated",
+    "content_type": "MARKDOWN",
+    "toughness": "EASY",
+    "language": "ENGLISH",
+    "question_type": "IDE_BASED_CODING",
+    "question_asked_by_companies_info": [],
+    "question_format": "CODING_PRACTICE",
+    "test_cases": [
+      {
+        "test_case_enum": "RJSCPYKKV8_TEST_1",
+        "display_text": "Page should render the teamsList data as a list containing a unique key as a prop for each team in Home Route",
+        "weightage": 5
+      }
+    ],
+    "multimedia": [],
+    "solutions_metadata": [
+      {
+        "ide_session_id": "c33f4dc0-6bc3-4b28-9afb-a13a6d374fcd",
+        "order": 1,
+        "title": {
+          "content": "Jobby App",
+          "content_type": "MARKDOWN"
+        },
+        "description": {
+          "content": "An approach to develop Jobby App",
+          "content_type": "MARKDOWN"
+        }
+      }
+    ],
+    "hints": []
+  }
+]
